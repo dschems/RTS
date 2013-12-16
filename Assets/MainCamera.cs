@@ -3,12 +3,12 @@ using System.Collections;
 
 public class MainCamera : MonoBehaviour {
 
-	// Use this for initialization
+	Transform target;
 	void Start () {
 	
 	}
 	
-	// Update is called once per frame
+
 	void Update () {
 	
 	}
